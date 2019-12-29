@@ -1,2 +1,2 @@
-# alsp
-Advanced Linux Systems Programming book
+# Initial page
+
